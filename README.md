@@ -38,3 +38,5 @@ Options:
 * `-o, --output`: Directory to save thumbnails (created if it doesn't exist).
 * `-w, --workers`: Number of concurrent download workers for playlists (default: 8).
 * `--overwrite`: Overwrite existing files instead of skipping them.
+
+<!-- verified: 2026-09-13 -->
