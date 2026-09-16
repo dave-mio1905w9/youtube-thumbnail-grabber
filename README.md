@@ -39,4 +39,4 @@ Options:
 * `-w, --workers`: Number of concurrent download workers for playlists (default: 8).
 * `--overwrite`: Overwrite existing files instead of skipping them.
 
-<!-- verified: 2026-09-15 -->
+<!-- verified: 2026-09-16 -->
